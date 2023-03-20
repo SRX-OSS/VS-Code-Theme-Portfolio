@@ -1,0 +1,42 @@
+.faicons {
+  text-align: center;
+  vertical-align: middle;
+  padding-left: 0.65rem;
+  padding-right: 0px;
+  cursor: pointer;
+}
+
+.navside {
+  width: 320px;
+  height: 100%;
+  display: inline-flex;
+  overflow-x: hidden;
+}
+
+.mainside {
+  width: calc(100vw - 320px);
+  height: 100vh;
+  margin-top: 8px;
+  margin-left: -8px;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.navsidecollapse {
+  width: 47px;
+  height: 100%;
+  display: inline-flex;
+  overflow-x: hidden;
+}
+
+.mainsidecollapse {
+  width: calc(100vw - 57px);
+  height: 100vh;
+  overflow-x: hidden;
+  justify-content: center;
+  margin-top: 8px;
+  margin-left: -8px;
+  left: 60px;
+  position: absolute;
+  display: inline-flex;
+}
