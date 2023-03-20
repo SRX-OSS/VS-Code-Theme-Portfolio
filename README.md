@@ -2,6 +2,8 @@
 
 An Visual Studio Themed Developer Portfolio built using TypeScript, Next.js and Tailwind.
 
+Live Link: rajsavaliya.com
+
 > *Warning*
 > Since i was getting many requests for open sourcing the repository, i have open sourced it, but please note that code of this project is pure mess, since i created this as a practice while learning Next.js as a fresher. Now, I don't have enough mental strength to face it and rewrite it, so if anyone wants to contribute. It will help people a lot. Thanks.
 
