@@ -1,4 +1,4 @@
-# Visual Studio Code Developer Portfolio
+# Visual Studio Code Themed Developer Portfolio
 
 An Visual Studio Themed Developer Portfolio built using TypeScript, Next.js and Tailwind.
 
