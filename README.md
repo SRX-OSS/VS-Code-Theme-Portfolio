@@ -9,7 +9,7 @@ Live Link: <a href="https://www.rajsavaliya.com/" >rajsavaliya.com</a>
 
 ## Snapshot
 
-![screenshot-2](https://raw.githubusercontent.com/SRX9/portfoliosrx9/main/public/project_banner.jpg?token=GHSAT0AAAAAAB4TB7KTIPC7DWF6BRIUTVYGZAYV2MQ)
+![screenshot-2](/public/project_banner.jpg)
 
 ## Features
 
